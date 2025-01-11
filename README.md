@@ -1,4 +1,4 @@
-# Application for coping and sorting these files by extention.
+# Application for coping and sorting files by extention.
 
 ## Features
 
