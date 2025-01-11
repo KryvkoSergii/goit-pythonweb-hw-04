@@ -26,6 +26,8 @@ poetry run python .\sorter\main.py read_folder=<source> copy_file=<destination> 
 
 Replace `<source>` with the path to the folder containing the files you want to sort, and `<destination>` with the path to the folder where you want the sorted files to be copied.
 
+--log_level is optional parameter. INFO by default
+
 ## Command Line Options
 
 - `read_folder`: The source folder containing files to be sorted.
